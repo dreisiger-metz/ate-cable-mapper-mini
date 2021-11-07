@@ -5,4 +5,4 @@ Implements a (very (very)) simple two-port cable mapper and tester which outputs
 Still on the immediate to-do list are:
 
 - [ ] adding a simple SCPI-like command interface; and
-- [ ] adding the ability to validate cables-under-test against expected mappings.
+- [ ] adding the ability to validate cables-under-test against known-good or expected mappings.
